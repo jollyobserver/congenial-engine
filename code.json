@@ -1,12 +1,13 @@
 body.insertAdjacentHTML('beforeend', `<style>
 
 .realmoth {
-    background-image: url(https://s1.ezgif.com/tmp/ezgif-11a4fa177a84cc1e.gif);
+    background-image: url(https://raw.githubusercontent.com/jollyobserver/congenial-engine/refs/heads/main/moth.gif);
 } !important;
 
 .buddy {
---buddyimg: url(https://s1.ezgif.com/tmp/ezgif-11a4fa177a84cc1e.gif);
+--buddyimg: url(https://raw.githubusercontent.com/jollyobserver/congenial-engine/refs/heads/main/funfriend.gif);
 } !important;
+
 
 
 </style>`);
