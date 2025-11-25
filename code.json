@@ -1,0 +1,12 @@
+body.insertAdjacentHTML('beforeend', `<style>
+
+.realmoth {
+    background-image: url(https://s1.ezgif.com/tmp/ezgif-11a4fa177a84cc1e.gif);
+} !important;
+
+.buddy {
+--buddyimg: url(https://s1.ezgif.com/tmp/ezgif-11a4fa177a84cc1e.gif);
+} !important;
+
+
+</style>`);
